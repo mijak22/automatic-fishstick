@@ -1,3 +1,8 @@
 My name is Pierre
 My favorite colour is Blue
 My favorite food is caffeine 
+
+Here are some important information for making linux less insufferable.
+
+1: Tab will autofill filenames, directories and other stuff, just make sure caPiTaliZation is correct
+2: CTRL + R will let you find previously used commands
